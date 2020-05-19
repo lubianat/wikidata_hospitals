@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589925369367.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "657EF3BA",
+    "lastKnownWriteTime" : 1589925369,
+    "last_content_update" : 1589925369,
+    "path" : "~/Documents/wd_hospitals/wikidatahospitals/app.R",
+    "project_path" : "wikidatahospitals/app.R",
+    "properties" : {
+        "cursorPosition" : "3,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

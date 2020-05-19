@@ -1,0 +1,17 @@
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ hospitals_by_country_and_location[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kecho "# wikidata_hospitals" >> README.md
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git init
+Initialized empty Git repository in /home/lubianat/Documents/wd_hospitals/.git/
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git add README.md
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git commit -m "first commit"
+[master (root-commit) cad9b32] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git remote add origin git@github.com:lubianat/wikidata_hospitals.git
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git push -u origin master
+Counting objects: 3, done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 233 bytes | 233.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:lubianat/wikidata_hospitals.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$                 [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add .

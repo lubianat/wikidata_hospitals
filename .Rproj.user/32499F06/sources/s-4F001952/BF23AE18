@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589925427877.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BF23AE18",
+    "lastKnownWriteTime" : 1589930780,
+    "last_content_update" : 1589930780125,
+    "path" : "~/Documents/wd_hospitals/get_hospital_qids.R",
+    "project_path" : "get_hospital_qids.R",
+    "properties" : {
+        "cursorPosition" : "10,62",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
