@@ -8,6 +8,17 @@
 #
 
 library(shiny)
+library(data.table)
+
+
+
+hospitals_by_country_and_location <- data.frame(fread("../wikidata_query_for_hospitals_by_country and location.csv"))
+
+colnames(hospitals_by_country_and_location) <- hospitals_by_country_and_location[1,] 
+hospitals_by_country_and_location <- hospitals_by_country_and_location[-1,]
+
+
+countries_with_hospitals_on_wikidata = unique(hospitals_by_country_and_location$countryLabel)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -18,11 +29,10 @@ ui <- fluidPage(
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
       sidebarPanel(
-         sliderInput("bins",
-                     "Number of bins:",
-                     min = 1,
-                     max = 50,
-                     value = 30)
+        selectizeInput(inputId = "country", 
+                       label = "Country of interest", 
+                       choices = countries_with_hospitals_on_wikidata,
+                       selected = "Brazil")
       ),
       
       # Show a plot of the generated distribution

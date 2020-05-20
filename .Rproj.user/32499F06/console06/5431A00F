@@ -15,3 +15,33 @@ To github.com:lubianat/wikidata_hospitals.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$                 [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add .
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git commit -m "getting started"
+[master 3b34bd2] getting started
+ 17 files changed, 42634 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/32499F06/console06/5431A00F
+ create mode 100644 .Rproj.user/32499F06/console06/INDEX001
+ create mode 100644 .Rproj.user/32499F06/sources/prop/7B7F3C33
+ create mode 100644 .Rproj.user/32499F06/sources/prop/9C241F37
+ create mode 100644 .Rproj.user/32499F06/sources/prop/INDEX
+ create mode 100644 .Rproj.user/32499F06/sources/s-4F001952/657EF3BA
+ create mode 100644 .Rproj.user/32499F06/sources/s-4F001952/657EF3BA-contents
+ create mode 100644 .Rproj.user/32499F06/sources/s-4F001952/BF23AE18
+ create mode 100644 .Rproj.user/32499F06/sources/s-4F001952/BF23AE18-contents
+ create mode 100644 .Rproj.user/32499F06/sources/s-4F001952/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 get_hospital_qids.R
+ create mode 100644 wd_hospitals.Rproj
+ create mode 100644 wikidata_query_for_hospitals_by_country and location.csv
+ create mode 100644 wikidatahospitals/app.R
+]0;lubianat@csbl-notebook:~/Documents/wd_hospitals]7;file://csbl-notebook/home/lubianat/Documents/wd_hospitalslubianat@csbl-notebook:~/Documents/wd_hospitals$ git psus[K[K[Kush
+Counting objects: 24, done.
+Delta compression using up to 8 threads.
+Compressing objects:   4% (1/21)   Compressing objects:   9% (2/21)   Compressing objects:  14% (3/21)   Compressing objects:  19% (4/21)   Compressing objects:  23% (5/21)   Compressing objects:  28% (6/21)   Compressing objects:  33% (7/21)   Compressing objects:  38% (8/21)   Compressing objects:  42% (9/21)   Compressing objects:  47% (10/21)   Compressing objects:  52% (11/21)   Compressing objects:  57% (12/21)   Compressing objects:  61% (13/21)   Compressing objects:  66% (14/21)   Compressing objects:  71% (15/21)   Compressing objects:  76% (16/21)   Compressing objects:  80% (17/21)   Compressing objects:  85% (18/21)   Compressing objects:  90% (19/21)   Compressing objects:  95% (20/21)   Compressing objects: 100% (21/21)   Compressing objects: 100% (21/21), done.
+Writing objects:   4% (1/24)   Writing objects:   8% (2/24)   Writing objects:  12% (3/24)   Writing objects:  16% (4/24)   Writing objects:  20% (5/24)   Writing objects:  25% (6/24)   Writing objects:  29% (7/24)   Writing objects:  33% (8/24)   Writing objects:  37% (9/24)   Writing objects:  41% (10/24)   Writing objects:  45% (11/24)   Writing objects:  50% (12/24)   Writing objects:  54% (13/24)   Writing objects:  58% (14/24)   Writing objects:  62% (15/24)   Writing objects:  66% (16/24)   Writing objects:  70% (17/24)   Writing objects:  75% (18/24)   Writing objects:  79% (19/24)   Writing objects:  83% (20/24)   Writing objects:  87% (21/24)   Writing objects:  91% (22/24)   Writing objects:  95% (23/24)   Writing objects: 100% (24/24)   Writing objects: 100% (24/24), 786.97 KiB | 4.63 MiB/s, done.
+Total 24 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
+To github.com:lubianat/wikidata_hospitals.git
+   cad9b32..3b34bd2  master -> master
+git add .
